@@ -1,0 +1,15 @@
+{
+  "originHash" : "707bc157733f6a0ce6f410c24059c6f3252f0eddf0b06e208c4a2e133fdb55dd",
+  "pins" : [
+    {
+      "identity" : "carduicomponents",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AlexShika/CardUIComponents.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a9929cd9f15baf991bd3f246c292bf8398426abd"
+      }
+    }
+  ],
+  "version" : 3
+}
